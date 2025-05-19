@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - Professional development skills on the [Northcoders bootcamp](https://northcoders.com/our-courses/skills-bootcamp-in-java-software-development)
   - Agile development
   - SOLID design princaples
-  - Test Dirven Development
+  - Test Driven Development
   - Paired Programming
  
 #### 💬 Ask me about
