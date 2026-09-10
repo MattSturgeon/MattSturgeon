@@ -47,9 +47,6 @@ Over the past few years, I’ve focused deeply on the **Nix ecosystem**, contrib
 - **[Stylix](https://github.com/nix-community/stylix)** – improved theme modules and cross-platform configuration  
 - **[umu-launcher](https://github.com/Open-Wine-Components/umu-launcher)** – CI and build improvements for Wine-based launch tooling  
 
-### 🧪 Exploratory Work
-- Developing a **Nix module system for declaratively constructing mdBook websites**, inspired by documentation needs within Nixvim
-
 ---
 
 ## 📊 Open-Source Impact
