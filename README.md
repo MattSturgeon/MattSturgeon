@@ -43,8 +43,8 @@ Over the past few years, I’ve focused deeply on the **Nix ecosystem**, contrib
   370+ merged PRs and 800+ reviews, focusing on modular plugin definitions, integration testing, and documentation generation
 
 ### 🎨 Other Projects
+- **[Freecam](https://github.com/MinecraftFreecam/Freecam)** – active maintainer with 200+ merged PRs, focusing on CI/CD, build systems, DevEx, improving code quality and technical debt  
 - **[Stylix](https://github.com/nix-community/stylix)** – improved theme modules and cross-platform configuration  
-- **[Freecam](https://github.com/MinecraftFreecam/Freecam)** – 50+ merged PRs, contributing to code quality and build stability  
 - **[umu-launcher](https://github.com/Open-Wine-Components/umu-launcher)** – CI and build improvements for Wine-based launch tooling  
 
 ### 🧪 Exploratory Work
