@@ -62,8 +62,8 @@ Over the past few years, I’ve focused deeply on the **Nix ecosystem**, contrib
 
 ## 📈 Activity Metrics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MattSturgeon&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattSturgeon&layout=compact&theme=transparent&hide_border=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=MattSturgeon&hide_border=true&hide_title=true)
+![Top Languages](https://ghstats.dev/api/langs?username=MattSturgeon&hide_border=true&hide_title=true&layout=donut_vertical)
 
 ---
 
